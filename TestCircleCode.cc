@@ -1,8 +1,5 @@
 /* 
- * File:   main.cpp
- * Author: SAMARAS
- *
- * 13/10/13
+
  */
  
 #include <cstdlib>
