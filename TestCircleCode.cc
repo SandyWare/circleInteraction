@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author: SAMARAS
+ * Author: Sandip
  *
  * 13/10/13
  */
