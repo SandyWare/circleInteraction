@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author: Sandip
+ * Author: Sandip Ware
  *
  * 13/10/13
  */
